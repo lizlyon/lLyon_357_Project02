@@ -4,6 +4,8 @@
 + ID: 2377043
 + Class: CPSC 357 iOS Development 
 
+My main.swift is located in the lLyon_357_Project02_ file. 
+
 A simple password manager that takes in user input and reads and writes to a file. 
 
 Sources:
